@@ -1,5 +1,5 @@
 /**
- * DanceParty Stream Central Server
+ * c0llydoll jdu core
  */
 
 global.root = __dirname;
