@@ -1,0 +1,23 @@
+{
+  "name": "webm-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^8.2.5",
+    "lua-json": "^1.0.1",
+    "md5-file": "^5.0.0",
+    "mime-types": "^2.1.35",
+    "minio": "^7.0.32",
+    "signale": "^1.4.0"
+  }
+}

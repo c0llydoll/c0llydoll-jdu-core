@@ -1,0 +1,142 @@
+const FQDN = `http://{env}${global.config.HOST}`
+module.exports = [{
+    "name": "all_connections",
+    "url": "https://useast1-{env}public-ubiservices.ubi.com/{version}/profiles/connections",
+    "version": 1
+}, {
+    "name": "all_profiles/applications",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/applications",
+    "version": 2
+}, {
+    "name": "all_profiles/entities",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/profiles/entities",
+    "version": 2
+}, {
+    "name": "all_spaces/entities",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/spaces/entities",
+    "version": 2
+}, {
+    "name": "all_spaces/items",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/spaces/items",
+    "version": 1
+}, {
+    "name": "all_spaces/offers",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/spaces/offers",
+    "version": 1
+}, {
+    "name": "all_walls",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/wall",
+    "version": 1
+}, {
+    "name": "certificates",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/certificates",
+    "version": 1
+}, {
+    "name": "configs/events",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/spaces/{spaceId}/configs/events",
+    "version": 2
+}, {
+    "name": "connections",
+    "url": "https://useast1-{env}public-ubiservices.ubi.com/{version}/profiles/{profileId}/connections",
+    "version": 1
+}, {
+    "name": "events",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/{profileId}/events",
+    "version": 2
+}, {
+    "name": "friends",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/me/friends",
+    "version": 2
+}, {
+    "name": "news",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/me/news",
+    "version": 1
+}, {
+    "name": "populations",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/profiles/me/populations",
+    "version": 1
+}, {
+    "name": "profiles",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles",
+    "version": 2
+}, {
+    "name": "profiles/actions",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/{profileId}/actions",
+    "version": 1
+}, {
+    "name": "profiles/applications",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/me/applications",
+    "version": 2
+}, {
+    "name": "profiles/entities",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/profiles/{profileId}/entities",
+    "version": 2
+}, {
+    "name": "profiles/inventory",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/profiles/{profileId}/inventory",
+    "version": 1
+}, {
+    "name": "profiles/notifications",
+    "url": "https://useast1-{env}public-ubiservices.ubi.com/{version}/profiles/{profileId}/notifications",
+    "version": 2
+}, {
+    "name": "profiles/rewards",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/{profileId}/rewards",
+    "version": 1
+}, {
+    "name": "remote_logs",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/profiles/me/remotelog",
+    "version": 1
+}, {
+    "name": "sandboxes",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/spaces/{spaceId}/sandboxes",
+    "version": 0
+}, {
+    "name": "spaces/actions",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/spaces/{spaceId}/actions",
+    "version": 1
+}, {
+    "name": "spaces/entities",
+    "url": FQDN + "/{version}/spaces/{spaceId}/entities",
+    "version": 1
+}, {
+    "name": "spaces/items",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/spaces/{spaceId}/items",
+    "version": 1
+}, {
+    "name": "spaces/news",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/spaces/news",
+    "version": 1
+}, {
+    "name": "spaces/offers",
+    "url": "https://{env}public-ubiservices.ubi.com/{version}/spaces/{spaceId}/offers",
+    "version": 1
+}, {
+    "name": "spaces/rewards",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/spaces/{spaceId}/rewards",
+    "version": 1
+}, {
+    "name": "wall",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/{profileId}/wall",
+    "version": 1
+}, {
+    "name": "wall/comments",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/wall/{postId}/comments",
+    "version": 1
+}, {
+    "name": "wall/likes",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/wall/{postId}/likes",
+    "version": 1
+}, {
+    "name": "wall/post",
+    "url": "https://msr-{env}public-ubiservices.ubi.com/{version}/profiles/wall/{postId}",
+    "version": 1
+}, {
+    "name": "websocket/notifications",
+    "url": "wss://{env}public-ws-ubiservices.ubi.com/{version}/websocket",
+    "version": 2
+}, {
+    "name": "websocket/server",
+    "url": "wss://{env}public-ws-ubiservices.ubi.com",
+    "version": 1
+}];
