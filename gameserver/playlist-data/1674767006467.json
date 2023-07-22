@@ -1,0 +1,135 @@
+{
+  "prev": {
+    "theme": {
+      "id": 3,
+      "name": "coach",
+      "desc": "Players pick a coach on non-solo maps and win as a team",
+      "isAvailable": true
+    },
+    "map": {
+      "_id": "63cb3914e0cd31569e73823c",
+      "mapName": "Summertime",
+      "songId": "23581178787",
+      "title": "In The Summertime",
+      "artist": "Mungo Jerry",
+      "version": 2014,
+      "numCoach": 4,
+      "difficulty": 1,
+      "songHash": "ab8471ea-d4d7-4d6f-b6de-0d678b57f952",
+      "length": 212523.8125,
+      "isAvailable": true,
+      "createdAt": "2023-01-21T01:00:04.772Z",
+      "updatedAt": "2023-01-21T01:00:04.772Z"
+    },
+    "timing": {
+      "base_time": 1674766913471,
+      "presentation_start_time": 1674766928471,
+      "start_song_time": 1674766938471,
+      "stop_song_time": 1674767150994,
+      "recap_start_time": 1674767152994,
+      "session_result_start_time": 1674767167994,
+      "session_to_world_result_time": 1674767167994,
+      "world_result_stop_time": 1674767197994,
+      "last_vote_time": 1674767197994,
+      "request_unlock_time": 1674767158994,
+      "playlist_computation_time": 1674767189994,
+      "request_playlist_time": 1674767197994,
+      "merge_computation_time": 1674767175494,
+      "merge_computation_duration_in_ms": 15000
+    },
+    "timingProgramming": {
+      "request_playlist_time": 1674767197994,
+      "next_start_song_time": 1674767222994
+    }
+  },
+  "cur": {
+    "theme": {
+      "id": 3,
+      "name": "coach",
+      "desc": "Players pick a coach on non-solo maps and win as a team",
+      "isAvailable": true
+    },
+    "map": {
+      "_id": "63cf4c4c3d1f6ff507cf26c4",
+      "mapName": "WhereHaveYouOSC",
+      "songId": "24819481761",
+      "title": "Where Have You Been",
+      "artist": "Rihanna",
+      "version": 2014,
+      "numCoach": 3,
+      "difficulty": 3,
+      "songHash": "9fd9874c-7260-48e5-98c3-c2fdd50adfb0",
+      "length": 254530.27083333334,
+      "isAvailable": true,
+      "createdAt": "2023-01-24T03:11:08.486Z",
+      "updatedAt": "2023-01-24T03:11:08.486Z"
+    },
+    "timing": {
+      "base_time": 1674767006467,
+      "presentation_start_time": 1674767021467,
+      "start_song_time": 1674767031467,
+      "stop_song_time": 1674767285997,
+      "recap_start_time": 1674767287997,
+      "session_result_start_time": 1674767302997,
+      "session_to_world_result_time": 1674767302997,
+      "world_result_stop_time": 1674767332997,
+      "last_vote_time": 1674767332997,
+      "request_unlock_time": 1674767293997,
+      "playlist_computation_time": 1674767324997,
+      "request_playlist_time": 1674767332997,
+      "merge_computation_time": 1674767310497,
+      "merge_computation_duration_in_ms": -176527
+    },
+    "timingProgramming": {
+      "request_playlist_time": 1674767524524,
+      "next_start_song_time": 1674767549524
+    }
+  },
+  "next": {
+    "theme": {
+      "id": 1,
+      "name": "community",
+      "desc": "Players pick a side and win as a team",
+      "isAvailable": true,
+      "communities": [
+        "Jennie",
+        "Lisa"
+      ]
+    },
+    "map": {
+      "_id": "63cb3914e0cd31569e738213",
+      "mapName": "FeelThisMoment",
+      "songId": "24192068736",
+      "title": "Feel This Moment",
+      "artist": "Pitbull Ft. Christina Aguilera",
+      "version": 2014,
+      "numCoach": 1,
+      "difficulty": 1,
+      "songHash": "af31e908-f946-4a7e-86b8-b6b8bb70611a",
+      "length": 229852.75,
+      "isAvailable": true,
+      "createdAt": "2023-01-21T01:00:04.761Z",
+      "updatedAt": "2023-01-21T01:00:04.761Z"
+    },
+    "timing": {
+      "base_time": 1674767332997,
+      "presentation_start_time": 1674767347997,
+      "start_song_time": 1674767357997,
+      "stop_song_time": 1674767587849,
+      "recap_start_time": 1674767589849,
+      "session_result_start_time": 1674767604849,
+      "session_to_world_result_time": 1674767604849,
+      "world_result_stop_time": 1674767634849,
+      "last_vote_time": 1674767634849,
+      "request_unlock_time": 1674767595849,
+      "playlist_computation_time": 1674767626849,
+      "request_playlist_time": 1674767634849,
+      "merge_computation_time": 1674767612349,
+      "merge_computation_duration_in_ms": 15000
+    },
+    "timingProgramming": {
+      "request_playlist_time": 1674767634849,
+      "next_start_song_time": 1674767659849
+    }
+  }
+}

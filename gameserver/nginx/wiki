@@ -1,0 +1,30 @@
+server {
+        listen 80;
+        listen [::]:80;
+        server_name wiki.danceparty.online;
+
+        root /var/lib/mediawiki;
+        index index.php;
+   
+        error_log /var/log/nginx/mediawiki.error;
+        access_log /var/log/nginx/mediawiki.access;
+
+        location / {
+                try_files $uri $uri/ /index.php;
+        }
+
+        location ~ /.well-known {
+            allow all;
+        }
+
+        location ~ /\.ht {
+          deny all;
+         }
+
+        location ~ \.php$ {
+            fastcgi_pass unix:/run/php/php7.4-fpm.sock;
+            fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+            include fastcgi_params;
+            include snippets/fastcgi-php.conf;
+        }
+}

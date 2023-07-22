@@ -1,0 +1,3 @@
+{
+  "exec": "node src/gameserver.js serve jmcs"
+}

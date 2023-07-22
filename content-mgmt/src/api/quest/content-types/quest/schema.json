@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "quests",
+  "info": {
+    "singularName": "quest",
+    "pluralName": "quests",
+    "displayName": "Quest"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "questId": {
+      "type": "customField",
+      "required": true,
+      "customField": "plugin::field-uuid.uuid"
+    },
+    "name": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "songs": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::song.song"
+    },
+    "coverImageURL": {
+      "type": "string",
+      "required": true,
+      "unique": false
+    },
+    "logoImageURL": {
+      "type": "string",
+      "required": true
+    },
+    "logoShadedImageURL": {
+      "type": "string"
+    },
+    "phoneImageURL": {
+      "type": "string"
+    }
+  }
+}

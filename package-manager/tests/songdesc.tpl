@@ -1,0 +1,31 @@
+return 
+{
+    {
+                SoundDescriptor_Template=
+                {
+                        name="AMB_AllIWant_Intro",  
+                        volume=-4,
+                        category="AMB",
+                        limitMode=LimiterMode.RejectNew,
+                        -- maxInstances=1,
+                        params=
+                        {SoundParams={
+                                numChannels=2,
+                                loop=0, 
+                                playMode=PlayMode.Random,
+                                randomVolMin=0.0,
+                                randomVolMax=0.0,
+                                randomPitchMin=1.0,
+                                randomPitchMax=1.0,
+                                fadeInTime=0.0,
+                                fadeOutTime=0.0,
+                        }},
+                        files=
+                        {
+                                {
+                                        VAL="World/MAPS/AllIWant/Audio/AMB/AMB_AllIWant_Intro.wav",
+                                },
+                        }
+                }
+    }
+}

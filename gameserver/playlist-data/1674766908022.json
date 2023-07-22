@@ -1,0 +1,135 @@
+{
+  "prev": {
+    "theme": {
+      "id": 3,
+      "name": "coach",
+      "desc": "Players pick a coach on non-solo maps and win as a team",
+      "isAvailable": true
+    },
+    "map": {
+      "_id": "63cb3914e0cd31569e738238",
+      "mapName": "RobotRock",
+      "songId": "22062258736",
+      "title": "Nitro Bot",
+      "artist": "Sentai Express",
+      "version": 2014,
+      "numCoach": 2,
+      "difficulty": 2,
+      "songHash": "4f018dc6-fbdb-45f4-9d24-f42bb5bc1fe8",
+      "length": 188393.83333333334,
+      "isAvailable": true,
+      "createdAt": "2023-01-21T01:00:04.772Z",
+      "updatedAt": "2023-01-21T01:00:04.772Z"
+    },
+    "timing": {
+      "base_time": 1674766810092,
+      "presentation_start_time": 1674766825092,
+      "start_song_time": 1674766835092,
+      "stop_song_time": 1674767023485,
+      "recap_start_time": 1674767025485,
+      "session_result_start_time": 1674767040485,
+      "session_to_world_result_time": 1674767040485,
+      "world_result_stop_time": 1674767070485,
+      "last_vote_time": 1674767070485,
+      "request_unlock_time": 1674767031485,
+      "playlist_computation_time": 1674767062485,
+      "request_playlist_time": 1674767070485,
+      "merge_computation_time": 1674767047985,
+      "merge_computation_duration_in_ms": 270400
+    },
+    "timingProgramming": {
+      "request_playlist_time": 1674766815085,
+      "next_start_song_time": 1674766840085
+    }
+  },
+  "cur": {
+    "theme": {
+      "id": 3,
+      "name": "coach",
+      "desc": "Players pick a coach on non-solo maps and win as a team",
+      "isAvailable": true
+    },
+    "map": {
+      "_id": "63cb3914e0cd31569e738229",
+      "mapName": "KissYou",
+      "songId": "22512635284",
+      "title": "Kiss You",
+      "artist": "One Direction",
+      "version": 2014,
+      "numCoach": 4,
+      "difficulty": 1,
+      "songHash": "dcb44c2f-8398-4918-a1ee-3771bf43b447",
+      "length": 188667.33333333334,
+      "isAvailable": true,
+      "createdAt": "2023-01-21T01:00:04.762Z",
+      "updatedAt": "2023-01-21T01:00:04.762Z"
+    },
+    "timing": {
+      "base_time": 1674766908022,
+      "presentation_start_time": 1674766923022,
+      "start_song_time": 1674766933022,
+      "stop_song_time": 1674767121689,
+      "recap_start_time": 1674767123689,
+      "session_result_start_time": 1674767138689,
+      "session_to_world_result_time": 1674767138689,
+      "world_result_stop_time": 1674767168689,
+      "last_vote_time": 1674767168689,
+      "request_unlock_time": 1674767129689,
+      "playlist_computation_time": 1674767160689,
+      "request_playlist_time": 1674767168689,
+      "merge_computation_time": 1674767146189,
+      "merge_computation_duration_in_ms": 112930
+    },
+    "timingProgramming": {
+      "request_playlist_time": 1674767070759,
+      "next_start_song_time": 1674767095759
+    }
+  },
+  "next": {
+    "theme": {
+      "id": 1,
+      "name": "community",
+      "desc": "Players pick a side and win as a team",
+      "isAvailable": true,
+      "communities": [
+        "Jennie",
+        "Lisa"
+      ]
+    },
+    "map": {
+      "_id": "63cf4c4c3d1f6ff507cf2691",
+      "mapName": "FineChina",
+      "songId": "23514952505",
+      "title": "Fine China",
+      "artist": "Chris Brown",
+      "version": 2014,
+      "numCoach": 1,
+      "difficulty": 2,
+      "songHash": "91ba9106-7036-4d2d-9146-e85cbee8a984",
+      "length": 207692.75,
+      "isAvailable": true,
+      "createdAt": "2023-01-24T03:11:08.478Z",
+      "updatedAt": "2023-01-24T03:11:08.478Z"
+    },
+    "timing": {
+      "base_time": 1674767168689,
+      "presentation_start_time": 1674767183689,
+      "start_song_time": 1674767193689,
+      "stop_song_time": 1674767401381,
+      "recap_start_time": 1674767403381,
+      "session_result_start_time": 1674767418381,
+      "session_to_world_result_time": 1674767418381,
+      "world_result_stop_time": 1674767448381,
+      "last_vote_time": 1674767448381,
+      "request_unlock_time": 1674767409381,
+      "playlist_computation_time": 1674767440381,
+      "request_playlist_time": 1674767448381,
+      "merge_computation_time": 1674767425881,
+      "merge_computation_duration_in_ms": 15000
+    },
+    "timingProgramming": {
+      "request_playlist_time": 1674767448381,
+      "next_start_song_time": 1674767473381
+    }
+  }
+}

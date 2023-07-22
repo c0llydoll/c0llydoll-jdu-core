@@ -1,0 +1,71 @@
+{
+  "kind": "collectionType",
+  "collectionName": "skus",
+  "info": {
+    "singularName": "sku",
+    "pluralName": "skus",
+    "displayName": "Sku",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "version": {
+      "type": "integer",
+      "required": false
+    },
+    "gameVersion": {
+      "type": "enumeration",
+      "enum": [
+        "jd2016",
+        "jd2017",
+        "jd2018",
+        "jd2019",
+        "jd2020",
+        "jd2021",
+        "jd2022"
+      ],
+      "required": false
+    },
+    "platform": {
+      "type": "enumeration",
+      "enum": [
+        "pc",
+        "wiiu",
+        "ps4",
+        "nx"
+      ],
+      "required": false
+    },
+    "region": {
+      "type": "enumeration",
+      "enum": [
+        "all",
+        "ww",
+        "cn",
+        "emea",
+        "ncsa"
+      ],
+      "required": false
+    },
+    "dev": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    },
+    "wdfRoom": {
+      "type": "string"
+    },
+    "game": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::game.game"
+    },
+    "skuId": {
+      "type": "string",
+      "unique": true
+    }
+  }
+}

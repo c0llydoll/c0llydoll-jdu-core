@@ -1,0 +1,57 @@
+[
+  {
+    "createdAt": "2023-02-19T08:18:27.410Z",
+    "updatedAt": "2023-02-19T08:47:42.945Z",
+    "publishedAt": "2023-02-19T08:47:42.937Z",
+    "playlistId": "bbde0dbf-96fe-4935-8fad-167ac4731ed5",
+    "name": "Asian Hits",
+    "description": "Feel the asian wave!",
+    "coverURL": "placeholder!",
+    "locale": "en",
+    "songs": {
+      "data": [
+        {
+          "id": 2,
+          "attributes": {
+            "mapName": "ChaseTheChance",
+            "title": "Chase The Chance",
+            "artist": "Namie Amuro",
+            "coachCount": 1,
+            "difficulty": 3,
+            "sweatDifficulty": 2,
+            "createdAt": "2023-02-15T11:40:39.116Z",
+            "updatedAt": "2023-02-15T18:06:00.572Z",
+            "publishedAt": "2023-02-15T11:40:42.012Z",
+            "songId": "582c4254-6f5d-43d4-b245-0d8e00a22014",
+            "songColor1A": "#2e22f6",
+            "songColor1B": "#004a89",
+            "songColor2A": "#483df6",
+            "songColor2B": "#1d00a1",
+            "lyricsColor": "#11a9b5",
+            "credits": null
+          }
+        }
+      ]
+    },
+    "skus": {
+      "data": []
+    },
+    "localizations": {
+      "data": [
+        {
+          "id": 2,
+          "attributes": {
+            "createdAt": "2023-02-19T08:23:27.819Z",
+            "updatedAt": "2023-02-19T08:23:27.819Z",
+            "publishedAt": null,
+            "playlistId": "1",
+            "name": "Ritmos Asiáticos",
+            "description": "¡Siente la ola asiática!",
+            "coverURL": "placeholder!",
+            "locale": "es"
+          }
+        }
+      ]
+    }
+  }
+]

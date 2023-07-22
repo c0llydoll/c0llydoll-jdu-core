@@ -1,0 +1,1 @@
+{"__class":"Actor_Template","WIP":0,"LOWUPDATE":0,"UPDATE_LAYER":0,"PROCEDURAL":0,"STARTPAUSED":0,"FORCEISENVIRONMENT":0,"COMPONENTS":[{"__class":"MasterTape_Template","TapesRack":[{"__class":"TapeGroup","Entries":[{"__class":"TapeEntry","Label":"tml_dance","Path":"world/maps/alliwant/timeline/alliwant_tml_dance.dtape"}]}]}]}

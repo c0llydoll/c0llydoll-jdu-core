@@ -1,0 +1,2 @@
+- Logger fails to determine global.ENV because its called before ENV is set, for non dev envs log level will always be debug
+- Update wdf-session & wdf-score to be authorized with mac or ip

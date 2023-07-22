@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bosses",
+  "info": {
+    "singularName": "boss",
+    "pluralName": "bosses",
+    "displayName": "Boss"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "bossId": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "logo": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "newsFeedPictureUrl": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    }
+  }
+}

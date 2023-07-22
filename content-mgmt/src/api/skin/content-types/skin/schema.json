@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "skins",
+  "info": {
+    "singularName": "skin",
+    "pluralName": "skins",
+    "displayName": "Skin"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "jdVersion": {
+      "type": "integer"
+    },
+    "mojoPrice": {
+      "type": "integer"
+    },
+    "unlockType": {
+      "type": "integer"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

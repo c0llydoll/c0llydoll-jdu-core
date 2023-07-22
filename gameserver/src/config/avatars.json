@@ -1,0 +1,2117 @@
+[
+  {
+    "id": 1,
+    "version": 100,
+    "mapName": "Dare",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 7,
+    "version": 100,
+    "mapName": "JinGoLoBa",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 8,
+    "version": 100,
+    "mapName": "RingMyBell",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 13,
+    "version": 100,
+    "mapName": "ComeOn",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 19,
+    "version": 100,
+    "mapName": "HotStep",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 20,
+    "version": 100,
+    "mapName": "IGotYou",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 31,
+    "version": 100,
+    "mapName": "Rockafeller",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 32,
+    "version": 100,
+    "mapName": "ShouldIStay",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 34,
+    "version": 100,
+    "mapName": "Song2",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 35,
+    "version": 100,
+    "mapName": "SpiceUp",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 37,
+    "version": 100,
+    "mapName": "SympathyDevil",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 38,
+    "version": 100,
+    "mapName": "Toxic",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 39,
+    "version": 100,
+    "mapName": "VivaLasVegas",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 48,
+    "version": 100,
+    "mapName": "FeelLikeDancing",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 53,
+    "version": 100,
+    "mapName": "HeyBoy",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 56,
+    "version": 100,
+    "mapName": "MarciaBaila",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 57,
+    "version": 100,
+    "mapName": "NightBoat",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 59,
+    "version": 100,
+    "mapName": "SoExcited",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 62,
+    "version": 100,
+    "mapName": "Tightrope",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 63,
+    "version": 100,
+    "mapName": "ToTheMall",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 75,
+    "version": 100,
+    "mapName": "Disturbia",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 76,
+    "version": 100,
+    "mapName": "EverybodyNeeds",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 82,
+    "version": 100,
+    "mapName": "LetMeFeelYa",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 83,
+    "version": 100,
+    "mapName": "LivinLaVidaLoca",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 91,
+    "version": 100,
+    "mapName": "RockLobster",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 93,
+    "version": 100,
+    "mapName": "SexyLittleThing",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 94,
+    "version": 100,
+    "mapName": "SoWhat",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 104,
+    "version": 100,
+    "mapName": "FollowTheLeader",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 108,
+    "version": 100,
+    "mapName": "SheWolf",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 111,
+    "version": 100,
+    "mapName": "WhereHaveYou",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 112,
+    "version": 100,
+    "mapName": "AllIWant",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 119,
+    "version": 100,
+    "mapName": "BlameIt",
+    "coachId": 2,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 120,
+    "version": 100,
+    "mapName": "Candy",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 128,
+    "version": 100,
+    "mapName": "KissYouSIX",
+    "coachId": 2,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 129,
+    "version": 100,
+    "mapName": "KissYou",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 141,
+    "version": 100,
+    "mapName": "Alfonso",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 149,
+    "version": 100,
+    "mapName": "GetLucky",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 156,
+    "version": 100,
+    "mapName": "Maria",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 158,
+    "version": 100,
+    "mapName": "RichGirl",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 191,
+    "version": 100,
+    "mapName": "Burn",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 192,
+    "version": 100,
+    "mapName": "Fatima",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 200,
+    "version": 100,
+    "mapName": "MahNa",
+    "coachId": 2,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 201,
+    "version": 100,
+    "mapName": "NoMountain",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 204,
+    "version": 100,
+    "mapName": "Speedy",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 207,
+    "version": 100,
+    "mapName": "OnlyYou",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 212,
+    "version": 100,
+    "mapName": "TheFoxALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 213,
+    "version": 100,
+    "mapName": "ILoveItALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 214,
+    "version": 100,
+    "mapName": "4x4",
+    "coachId": 3,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 215,
+    "version": 100,
+    "mapName": "AddictedToYou",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 217,
+    "version": 100,
+    "mapName": "Bailando",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 219,
+    "version": 100,
+    "mapName": "BestSongEver",
+    "coachId": 3,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 221,
+    "version": 100,
+    "mapName": "BlackWidow",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 226,
+    "version": 100,
+    "mapName": "GetLow",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 229,
+    "version": 100,
+    "mapName": "ItsMyBirthday",
+    "coachId": 2,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 235,
+    "version": 100,
+    "mapName": "Problem",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 236,
+    "version": 100,
+    "mapName": "SoPerfect",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 465,
+    "version": 100,
+    "mapName": "JustMaxBL",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 602,
+    "version": 100,
+    "mapName": "TheTimeOfMyLife",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 608,
+    "version": 100,
+    "mapName": "BigDreamerCHN",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 609,
+    "version": 100,
+    "mapName": "BedtimeStoryCHN",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 105,
+    "version": 2014,
+    "mapName": "IKissed",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 106,
+    "version": 2014,
+    "mapName": "IWillSurvive",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 107,
+    "version": 2014,
+    "mapName": "RobotRock",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 110,
+    "version": 2014,
+    "mapName": "WhatAFeeling",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 113,
+    "version": 2014,
+    "mapName": "FineChina",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 114,
+    "version": 2014,
+    "mapName": "LoveBoat",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 116,
+    "version": 2014,
+    "mapName": "Starships",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 117,
+    "version": 2014,
+    "mapName": "Aquarius",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 122,
+    "version": 2014,
+    "mapName": "Cmon",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 126,
+    "version": 2014,
+    "mapName": "Gigolo",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 132,
+    "version": 2014,
+    "mapName": "Moskau",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 133,
+    "version": 2014,
+    "mapName": "PoundTheAlarm",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 138,
+    "version": 2014,
+    "mapName": "ThatPower",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 139,
+    "version": 2014,
+    "mapName": "TurnUpTheLove",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 142,
+    "version": 2014,
+    "mapName": "BlurredLines",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 145,
+    "version": 2014,
+    "mapName": "Danse",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 148,
+    "version": 2014,
+    "mapName": "Gentleman",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 151,
+    "version": 2014,
+    "mapName": "GimmeGimme",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 152,
+    "version": 2014,
+    "mapName": "ItsYou",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 153,
+    "version": 2014,
+    "mapName": "JustDance",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 154,
+    "version": 2014,
+    "mapName": "LimaGolf1",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 155,
+    "version": 2014,
+    "mapName": "Luftballons",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 157,
+    "version": 2014,
+    "mapName": "Misunderstood",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 159,
+    "version": 2014,
+    "mapName": "SafeAndSound",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 164,
+    "version": 2014,
+    "mapName": "TheWay",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 166,
+    "version": 2014,
+    "mapName": "WakingUp",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 167,
+    "version": 2014,
+    "mapName": "Wild",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 168,
+    "version": 2014,
+    "mapName": "Zagreb",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 249,
+    "version": 2014,
+    "mapName": "OtherSide",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 447,
+    "version": 2014,
+    "mapName": "PrinceAli",
+    "coachId": 3,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 449,
+    "version": 2014,
+    "mapName": "Ghostbusters",
+    "coachId": 3,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 461,
+    "version": 2014,
+    "mapName": "YMCA",
+    "coachId": 2,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 466,
+    "version": 2014,
+    "mapName": "StarshipsALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 472,
+    "version": 2014,
+    "mapName": "ThatPowerALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 473,
+    "version": 2014,
+    "mapName": "TurnUpTheLoveALT",
+    "coachId": 2,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 486,
+    "version": 2014,
+    "mapName": "GentlemanSWT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 487,
+    "version": 2014,
+    "mapName": "GhostbustersSWT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 494,
+    "version": 2014,
+    "mapName": "GimmeGimmeOSC",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 495,
+    "version": 2014,
+    "mapName": "IKissedOSC",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 511,
+    "version": 2014,
+    "mapName": "ItsYouSWT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 512,
+    "version": 2014,
+    "mapName": "IKissedSWT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 583,
+    "version": 2014,
+    "mapName": "IWillSurviveOSC",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 604,
+    "version": 2014,
+    "mapName": "JustDanceOSC",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 185,
+    "version": 2015,
+    "mapName": "NeverCanSay",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 188,
+    "version": 2015,
+    "mapName": "BuiltForThis",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 189,
+    "version": 2015,
+    "mapName": "Happy",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 190,
+    "version": 2015,
+    "mapName": "SpinMeRound",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 194,
+    "version": 2015,
+    "mapName": "Summer",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 196,
+    "version": 2015,
+    "mapName": "WalkThisWay",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 198,
+    "version": 2015,
+    "mapName": "DontWorry",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 203,
+    "version": 2015,
+    "mapName": "Tetris",
+    "coachId": 3,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 205,
+    "version": 2015,
+    "mapName": "LoveIsAll",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 206,
+    "version": 2015,
+    "mapName": "BadRomance",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 210,
+    "version": 2015,
+    "mapName": "Macarena",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 218,
+    "version": 2015,
+    "mapName": "Balance",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 220,
+    "version": 2015,
+    "mapName": "Birthday",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 224,
+    "version": 2015,
+    "mapName": "FindYou",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 225,
+    "version": 2015,
+    "mapName": "FindYourMove",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 227,
+    "version": 2015,
+    "mapName": "HappyALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 228,
+    "version": 2015,
+    "mapName": "HoldingOut",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 234,
+    "version": 2015,
+    "mapName": "Mad",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 237,
+    "version": 2015,
+    "mapName": "SummerALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 238,
+    "version": 2015,
+    "mapName": "WalkThisWayALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 423,
+    "version": 2015,
+    "mapName": "IndiaWaale",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 443,
+    "version": 2015,
+    "mapName": "LetItGo",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 199,
+    "version": 2016,
+    "mapName": "YouNeverCan",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 250,
+    "version": 2016,
+    "mapName": "IGotAFeeling",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 251,
+    "version": 2016,
+    "mapName": "Blame",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 252,
+    "version": 2016,
+    "mapName": "Animals",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 253,
+    "version": 2016,
+    "mapName": "LetsGroove",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 254,
+    "version": 2016,
+    "mapName": "WilliamTell",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 255,
+    "version": 2016,
+    "mapName": "BornThisWay",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 256,
+    "version": 2016,
+    "mapName": "Hangover",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 257,
+    "version": 2016,
+    "mapName": "Circus",
+    "coachId": 2,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 258,
+    "version": 2016,
+    "mapName": "UptownFunk",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 259,
+    "version": 2016,
+    "mapName": "TheseBoots",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 263,
+    "version": 2016,
+    "mapName": "HitTheRoad",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 264,
+    "version": 2016,
+    "mapName": "SaintPatrick",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 265,
+    "version": 2016,
+    "mapName": "Teacher",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 266,
+    "version": 2016,
+    "mapName": "TeacherALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 267,
+    "version": 2016,
+    "mapName": "UptownFunkALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 268,
+    "version": 2016,
+    "mapName": "WhenTheRain",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 269,
+    "version": 2016,
+    "mapName": "YoureTheOne",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 270,
+    "version": 2016,
+    "mapName": "AboutThatBass",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 271,
+    "version": 2016,
+    "mapName": "AboutThatBassALT",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 272,
+    "version": 2016,
+    "mapName": "AngryBirds",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 273,
+    "version": 2016,
+    "mapName": "BoysBoys",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 274,
+    "version": 2016,
+    "mapName": "Chiwawa",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 275,
+    "version": 2016,
+    "mapName": "ElectroMambo",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 276,
+    "version": 2016,
+    "mapName": "HeyMama",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 277,
+    "version": 2016,
+    "mapName": "IGotAFeelingALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 279,
+    "version": 2016,
+    "mapName": "StuckOnAFeeling",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 280,
+    "version": 2016,
+    "mapName": "TheChoice",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 281,
+    "version": 2016,
+    "mapName": "UnderTheSea",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 282,
+    "version": 2016,
+    "mapName": "JuntoATi",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 283,
+    "version": 2016,
+    "mapName": "BornThisWayALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 284,
+    "version": 2016,
+    "mapName": "Rabiosa",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 285,
+    "version": 2016,
+    "mapName": "RabiosaALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 286,
+    "version": 2016,
+    "mapName": "Lights",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 287,
+    "version": 2016,
+    "mapName": "HeyMamaALT",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 288,
+    "version": 2016,
+    "mapName": "WantToWantMe",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 289,
+    "version": 2016,
+    "mapName": "StadiumFlow",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 290,
+    "version": 2016,
+    "mapName": "KaboomPow",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 291,
+    "version": 2016,
+    "mapName": "KungFunk",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 292,
+    "version": 2016,
+    "mapName": "Gibberish",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 293,
+    "version": 2016,
+    "mapName": "Fancy",
+    "coachId": 2,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 294,
+    "version": 2016,
+    "mapName": "CopaCabana",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 295,
+    "version": 2016,
+    "mapName": "Albatraoz",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 296,
+    "version": 2016,
+    "mapName": "AnimalsALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 297,
+    "version": 2016,
+    "mapName": "CircusALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 298,
+    "version": 2016,
+    "mapName": "FancyALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 299,
+    "version": 2016,
+    "mapName": "Heartbeat",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 300,
+    "version": 2016,
+    "mapName": "HitTheRoadALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 301,
+    "version": 2016,
+    "mapName": "NoControl",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 303,
+    "version": 2016,
+    "mapName": "ThisIsHow",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 304,
+    "version": 2016,
+    "mapName": "ThisIsHowALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 305,
+    "version": 2016,
+    "mapName": "WantToWantMeALT",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 306,
+    "version": 2016,
+    "mapName": "Fun",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 307,
+    "version": 2016,
+    "mapName": "Coolos",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 260,
+    "version": 2017,
+    "mapName": "MarioNX",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 478,
+    "version": 2017,
+    "mapName": "LeanOn",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 480,
+    "version": 2017,
+    "mapName": "ScreamNShout",
+    "coachId": 3,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 481,
+    "version": 2017,
+    "mapName": "ScreamNShoutALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 498,
+    "version": 2017,
+    "mapName": "Hips",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 499,
+    "version": 2017,
+    "mapName": "WhatIsLove",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 500,
+    "version": 2017,
+    "mapName": "WorthItALT",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 504,
+    "version": 2017,
+    "mapName": "DontStopMe",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 505,
+    "version": 2017,
+    "mapName": "Daddy",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 506,
+    "version": 2017,
+    "mapName": "TicoTico",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 516,
+    "version": 2017,
+    "mapName": "Samba",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 517,
+    "version": 2017,
+    "mapName": "Radical",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 518,
+    "version": 2017,
+    "mapName": "PoPiPo",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 519,
+    "version": 2017,
+    "mapName": "LeanOnALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 520,
+    "version": 2017,
+    "mapName": "September",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 522,
+    "version": 2017,
+    "mapName": "ElTiki",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 524,
+    "version": 2017,
+    "mapName": "GhostInTheKeys",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 525,
+    "version": 2017,
+    "mapName": "WhatIsLoveALT",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 526,
+    "version": 2017,
+    "mapName": "DontStopMeALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 527,
+    "version": 2017,
+    "mapName": "WorthIt",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 528,
+    "version": 2017,
+    "mapName": "Titanium",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 529,
+    "version": 2017,
+    "mapName": "Sorry",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 539,
+    "version": 2017,
+    "mapName": "SeptemberALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 541,
+    "version": 2017,
+    "mapName": "DaddyALT",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 542,
+    "version": 2017,
+    "mapName": "CheapThrills",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 543,
+    "version": 2017,
+    "mapName": "RunTheNight",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 544,
+    "version": 2017,
+    "mapName": "Oishii",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 545,
+    "version": 2017,
+    "mapName": "CantFeelMyFace",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 546,
+    "version": 2017,
+    "mapName": "DragosteaDinTei",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 547,
+    "version": 2017,
+    "mapName": "Groove",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 559,
+    "version": 2017,
+    "mapName": "ColaSong",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 569,
+    "version": 2017,
+    "mapName": "ColaSongALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 570,
+    "version": 2017,
+    "mapName": "CakeByTheOceanALT",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 571,
+    "version": 2017,
+    "mapName": "ElTikiALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 572,
+    "version": 2017,
+    "mapName": "IntoYou",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 573,
+    "version": 2017,
+    "mapName": "CheapThrillsALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 574,
+    "version": 2017,
+    "mapName": "Bailar",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 575,
+    "version": 2017,
+    "mapName": "WhereverIGo",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 576,
+    "version": 2017,
+    "mapName": "NaeNaeALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 578,
+    "version": 2017,
+    "mapName": "Bonbon",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 579,
+    "version": 2017,
+    "mapName": "LikeIWould",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 580,
+    "version": 2017,
+    "mapName": "Leila",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 581,
+    "version": 2017,
+    "mapName": "ILoveRock",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 582,
+    "version": 2017,
+    "mapName": "CakeByTheOcean",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 587,
+    "version": 2017,
+    "mapName": "SorryALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 588,
+    "version": 2017,
+    "mapName": "TeDominar",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 590,
+    "version": 2017,
+    "mapName": "AllAboutUs",
+    "coachId": 2,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 591,
+    "version": 2017,
+    "mapName": "Bang",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 592,
+    "version": 2017,
+    "mapName": "Bicicleta",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 593,
+    "version": 2017,
+    "mapName": "RedMangoose",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 594,
+    "version": 2017,
+    "mapName": "SingleLadies",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 595,
+    "version": 2017,
+    "mapName": "NaeNae",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 597,
+    "version": 2017,
+    "mapName": "LastChristmas",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 598,
+    "version": 2017,
+    "mapName": "HipsALT",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 599,
+    "version": 2017,
+    "mapName": "RadicalALT",
+    "coachId": 1,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  },
+  {
+    "id": 600,
+    "version": 2017,
+    "mapName": "LittleSwing",
+    "coachId": 0,
+    "price": 0,
+    "status": 1,
+    "unlockType": 3
+  }
+]

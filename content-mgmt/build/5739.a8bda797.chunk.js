@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_project=self.webpackChunkmy_project||[]).push([[5739],{25739:e=>{e.exports=JSON.parse('{"country-select.label":"Country","country-select.description":"Select any country"}')}}]);

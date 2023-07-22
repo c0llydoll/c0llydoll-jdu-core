@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "avatars",
+  "info": {
+    "singularName": "avatar",
+    "pluralName": "avatars",
+    "displayName": "Avatar",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "jdVersion": {
+      "type": "integer"
+    },
+    "relativeSongName": {
+      "type": "string"
+    },
+    "relativeQuestID": {
+      "type": "string"
+    },
+    "relativeWDFBossName": {
+      "type": "string"
+    },
+    "soundFamily": {
+      "type": "string"
+    },
+    "mojoPrice": {
+      "type": "integer",
+      "default": 0
+    },
+    "unlockType": {
+      "type": "integer",
+      "default": 3
+    },
+    "url": {
+      "type": "string"
+    },
+    "coachId": {
+      "type": "integer",
+      "default": 0
+    }
+  }
+}

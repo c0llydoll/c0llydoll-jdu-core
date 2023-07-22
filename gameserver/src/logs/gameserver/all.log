@@ -1,0 +1,6 @@
+2023-02-15 20:42:17 [[36minfo[39m]: [36mInitalizing clients...[39m
+2023-02-15 20:42:17 [[36minfo[39m]: [36mInitalized Database client![39m
+2023-02-15 20:42:17 [[36minfo[39m]: [36mInitalized Memcached client![39m
+2023-02-15 20:42:17 [[32msuccess[39m]: [32mInitalized all clients![39m
+2023-02-15 20:42:17 [[36minfo[39m]: [36mStarting service WDF...[39m
+2023-02-15 20:42:17 [[32msuccess[39m]: [32mService WDF is listening on port 9000 in 'local' enviroment successfully![39m

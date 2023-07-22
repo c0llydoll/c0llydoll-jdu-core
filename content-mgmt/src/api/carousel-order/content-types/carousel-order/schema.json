@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "carousel_orders",
+  "info": {
+    "singularName": "carousel-order",
+    "pluralName": "carousel-orders",
+    "displayName": "carouselOrder"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "games": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::game.game"
+    }
+  }
+}
